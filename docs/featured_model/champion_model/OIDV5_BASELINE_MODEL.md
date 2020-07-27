@@ -1,6 +1,6 @@
 # CascadeCA RCNN
 ## 简介
-CascadeCA RCNN是百度视觉技术部在Google AI Open Images 2019-Object Detction比赛中的最佳单模型，该单模型助力团队在500多参数队伍中取得第二名。Open Images Dataset V5(OIDV5)包含500个类别、173W训练图像和超过1400W个标注边框，是目前已知规模最大的目标检测公开数据集，数据集地址：[https://storage.googleapis.com/openimages/web/index.html](https://storage.googleapis.com/openimages/web/index.html)。团队在比赛中的技术方案报告地址：[https://arxiv.org/pdf/1911.07171.pdf](https://arxiv.org/pdf/1911.07171.pdf)
+CascadeCA RCNN是百度视觉技术部在Google AI Open Images 2019-Object Detction比赛中的最佳单模型，该单模型助力团队在500多参赛队伍中取得第二名。Open Images Dataset V5(OIDV5)包含500个类别、173W训练图像和超过1400W个标注边框，是目前已知规模最大的目标检测公开数据集，数据集地址：[https://storage.googleapis.com/openimages/web/index.html](https://storage.googleapis.com/openimages/web/index.html)。团队在比赛中的技术方案报告地址：[https://arxiv.org/pdf/1911.07171.pdf](https://arxiv.org/pdf/1911.07171.pdf)
 
 ![](../../images/oidv5_gt.png)
 
